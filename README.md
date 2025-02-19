@@ -18,11 +18,11 @@ This is a responsive personal portfolio website created using HTML, CSS, and Jav
 ## Installation
 To run the website locally on your machine, follow these steps:
 
-## Clone the repository:
+### Clone the repository:
 
 git clone https://github.com/vaishnavipabbineedi/portfolio-website.git
 
-## Navigate into the project folder:
+### Navigate into the project folder:
 
 cd portfolio-website
 
