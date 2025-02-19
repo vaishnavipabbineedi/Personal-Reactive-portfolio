@@ -14,17 +14,7 @@ This is a responsive personal portfolio website created using HTML, CSS, and Jav
 - JavaScript: For dynamic functionalities like the hamburger menu, scroll effects, and the typed text animation.
 - ScrollReveal.js: For scroll animations.
 - Typed.js: For the typing effect.
-## File Structure
-bash
-/portfolio-website
-│
-├── index.html            # Main HTML file (structure of the site)
-├── style.css             # Main stylesheet (styling and design)
-├── main.js               # JavaScript file (for interactivity)
-├── vaish 3.png           # Profile image
-├── mec.png               # About section image
-├── 6.jpg, 3.jpg, 2.jpg, 4.jpg  # Portfolio images
-├── README.md             # Project documentation
+
 ## Installation
 To run the website locally on your machine, follow these steps:
 
