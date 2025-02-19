@@ -28,7 +28,7 @@ cd portfolio-website
 
 Open index.html in your browser: You can simply open the index.html file directly in your browser to view the portfolio.
 
-##Customization
+## Customization
 To customize the portfolio, you can modify the following:
 
 - Personal Information: Change the text in the home section for your name and introduction.
