@@ -20,7 +20,7 @@ To run the website locally on your machine, follow these steps:
 
 ### Clone the repository:
 
-git clone https://github.com/vaishnavipabbineedi/portfolio-website.git
+git clone https://github.com/vaishnavipabbineedi/Personal-Reactive-portfolio.git
 
 ### Navigate into the project folder:
 
